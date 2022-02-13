@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://www.datarobot.com/wp-content/uploads/2017/12/Moving-from-Business-Intelligence-to-Machine-Learning-with-Automation-hero-banner.jpg
+  https://miro.medium.com/max/3840/1*RrZnDof6ut46lEufaY5cBg.jpeg
 optimized_image: >-
-  https://www.datarobot.com/wp-content/uploads/2017/12/Moving-from-Business-Intelligence-to-Machine-Learning-with-Automation-hero-banner.jpg
+  https://miro.medium.com/max/3840/1*RrZnDof6ut46lEufaY5cBg.jpeg
 category: blog
 tags:
   - welcome
