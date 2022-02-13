@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://flextrade.com/wp-content/uploads/2019/09/Fotolia_257957753_Subscription_Monthly_M.jpg
+  https://content.presspage.com/uploads/1369/1920_epsrc-290721-brainartificialintelligence-gettyimages-1186776186.jpg?10000
 optimized_image: >-
-  https://flextrade.com/wp-content/uploads/2019/09/Fotolia_257957753_Subscription_Monthly_M.jpg
+  https://content.presspage.com/uploads/1369/1920_epsrc-290721-brainartificialintelligence-gettyimages-1186776186.jpg?10000
 category: blog
 tags:
   - welcome
