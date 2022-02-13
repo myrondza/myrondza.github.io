@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://priceintelligence.net/wp-content/uploads/2020/07/KI-und-Machine-Learning-price-monitoring-1.jpg
+  https://www.herbertsmithfreehills.com/sites/contenthub_mothership/files/styles/latest_thinking_images__950x650_/public/finance/hero_image/TMT-GettyImages-956353730.jpg?itok=jKEDVsmG
 optimized_image: >-
-  https://priceintelligence.net/wp-content/uploads/2020/07/KI-und-Machine-Learning-price-monitoring-1.jpg
+  https://www.herbertsmithfreehills.com/sites/contenthub_mothership/files/styles/latest_thinking_images__950x650_/public/finance/hero_image/TMT-GettyImages-956353730.jpg?itok=jKEDVsmG
 category: blog
 tags:
   - welcome
