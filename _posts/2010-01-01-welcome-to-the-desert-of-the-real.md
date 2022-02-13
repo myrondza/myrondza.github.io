@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://www.herbertsmithfreehills.com/sites/contenthub_mothership/files/styles/latest_thinking_images__950x650_/public/finance/hero_image/TMT-GettyImages-956353730.jpg?itok=jKEDVsmG
+  https://www.datarobot.com/wp-content/uploads/2017/12/Moving-from-Business-Intelligence-to-Machine-Learning-with-Automation-hero-banner.jpg
 optimized_image: >-
-  https://www.herbertsmithfreehills.com/sites/contenthub_mothership/files/styles/latest_thinking_images__950x650_/public/finance/hero_image/TMT-GettyImages-956353730.jpg?itok=jKEDVsmG
+  https://www.datarobot.com/wp-content/uploads/2017/12/Moving-from-Business-Intelligence-to-Machine-Learning-with-Automation-hero-banner.jpg
 category: blog
 tags:
   - welcome
