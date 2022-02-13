@@ -2,8 +2,8 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: Optimization Theory
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: Optimization Theory 
+description: This Blog post will focus on fundamental subjects in convexity, duality, and convex optimization algorithms. 
 image: https://raw.githubusercontent.com/myrondza/myrondza.github.io/master/assets/img/Objective.png
 optimized_image: https://raw.githubusercontent.com/myrondza/myrondza.github.io/master/assets/img/Objective.png
 category: life
