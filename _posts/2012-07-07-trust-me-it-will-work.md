@@ -1,16 +1,16 @@
 ---
-date: 2018-03-12 12:26:40
+date: 2018-09-10 12:26:40
 layout: post
-title: Trust me, it will work
+title: Reinforcement Learning
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
+image: https://image.cnbcfm.com/api/v1/image/106195906-1571755584600rts2s7s5.jpg?v=1589545344
+optimized_image: https://image.cnbcfm.com/api/v1/image/106195906-1571755584600rts2s7s5.jpg?v=1589545344
 category: 'tips'
 tags:
   - languages
   - tips
-author: thiagorossener
+author: myrondza
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
