@@ -1,16 +1,16 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Why books should be your priority?
+title: Optimization Theory
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://pbs.twimg.com/media/CMOZf_vUYAA-Jra.png
+optimized_image: https://pbs.twimg.com/media/CMOZf_vUYAA-Jra.png
 category: life
 tags:
   - books
   - read
-author: thiagorossener
+author: myrondza
 paginate: true
 ---
 
