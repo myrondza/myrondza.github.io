@@ -1,6 +1,6 @@
 # Site Settings
-name: Optimax
-title: Optimax | AI / ML blog by Myron DSouza
+name: The Gradient
+title: The Gradient | AI / ML blog by Myron DSouza
 description: 
 tags:
   - blog
@@ -104,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.0.0
