@@ -428,7 +428,6 @@ Powell's dog leg method is an iterative optimisation algorithm for the solution 
 
 Similarly to the Levenberg–Marquardt algorithm, it combines the Gauss–Newton algorithm with gradient descent, but it uses an explicit trust region. At each iteration, if the step from the Gauss–Newton algorithm is within the trust region, it is used to update the current solution. If not, the algorithm searches for the minimum of the objective function along the steepest descent direction, known as Cauchy point. If the Cauchy point is outside of the trust region, it is truncated to the boundary of the latter and it is taken as the new solution. If the Cauchy point is inside the trust region, the new solution is taken at the intersection between the trust region boundary and the line joining the Cauchy point and the Gauss-Newton step (dog leg step).
 
-<img src="https://d3i71xaburhd42.cloudfront.net/346761f6189f7dd8db2d32b0c14065c3bc01a65d/3-Figure1-1.png" height=200 width=350>
 
 ### f) Truncated Newton
 
