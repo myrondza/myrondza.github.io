@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://avatars.githubusercontent.com/u/18439193?v=4" alt="Myron D'Souza" width="200">
 
 # About
 
