@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://afry.com/sites/default/files/styles/hero_type_s_tablet_landscape_up/public/2019-11/gettyimages-942607194.jpg?h=14d24474&itok=Il7qBe1E
+  https://www.datarobot.com/wp-content/uploads/2017/12/Moving-from-Business-Intelligence-to-Machine-Learning-with-Automation-hero-banner.jpg
 optimized_image: >-
-  https://afry.com/sites/default/files/styles/hero_type_s_tablet_landscape_up/public/2019-11/gettyimages-942607194.jpg?h=14d24474&itok=Il7qBe1E
+  https://www.datarobot.com/wp-content/uploads/2017/12/Moving-from-Business-Intelligence-to-Machine-Learning-with-Automation-hero-banner.jpg
 category: blog
 tags:
   - welcome
