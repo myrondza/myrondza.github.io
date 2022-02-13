@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://www.herbertsmithfreehills.com/sites/contenthub_mothership/files/styles/latest_thinking_images__950x650_/public/finance/hero_image/TMT-GettyImages-956353730.jpg?itok=jKEDVsmG
+  https://afry.com/sites/default/files/styles/hero_type_s_tablet_landscape_up/public/2019-11/gettyimages-942607194.jpg?h=14d24474&itok=Il7qBe1E
 optimized_image: >-
-  https://www.herbertsmithfreehills.com/sites/contenthub_mothership/files/styles/latest_thinking_images__950x650_/public/finance/hero_image/TMT-GettyImages-956353730.jpg?itok=jKEDVsmG
+  https://afry.com/sites/default/files/styles/hero_type_s_tablet_landscape_up/public/2019-11/gettyimages-942607194.jpg?h=14d24474&itok=Il7qBe1E
 category: blog
 tags:
   - welcome
