@@ -1,5 +1,5 @@
 ---
-date: 2018-09-10 12:26:40
+date: 2018-10-09 12:26:40
 layout: post
 title: Reinforcement Learning
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
