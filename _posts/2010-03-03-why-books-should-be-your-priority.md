@@ -6,7 +6,7 @@ subtitle: Optimization Theory
 description: Here we focus on fundamental subjects in convexity, duality, and convex optimization algorithms. 
 image: https://www.jonesday.com/-/media/files/publications/2019/09/when-innovation-invents/when_innovation_invents_commentary_social.jpg?h=800&w=1600&la=en&hash=CFE11A0E1EECB7848B754FFF8665EDF8
 optimized_image: https://www.jonesday.com/-/media/files/publications/2019/09/when-innovation-invents/when_innovation_invents_commentary_social.jpg?h=800&w=1600&la=en&hash=CFE11A0E1EECB7848B754FFF8665EDF8
-category: life
+category: Optimization
 tags:
   - books
   - read
