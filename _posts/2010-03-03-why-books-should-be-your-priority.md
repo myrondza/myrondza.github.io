@@ -3,7 +3,7 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Optimization Theory
 subtitle: Optimization Theory 
-description: This Blog post will focus on fundamental subjects in convexity, duality, and convex optimization algorithms. 
+description: Here we focus on fundamental subjects in convexity, duality, and convex optimization algorithms. 
 image: https://raw.githubusercontent.com/myrondza/myrondza.github.io/master/assets/img/Objective.png
 optimized_image: https://raw.githubusercontent.com/myrondza/myrondza.github.io/master/assets/img/Objective.png
 category: life
