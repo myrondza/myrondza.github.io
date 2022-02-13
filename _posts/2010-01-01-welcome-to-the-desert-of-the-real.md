@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://videohive.img.customer.envatousercontent.com/files/222873625/sightsignal-fastdatanetworkloop1_IMG.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=01b0da26a22408c5903d6f67e648c8a3
+  https://flextrade.com/wp-content/uploads/2019/09/Fotolia_257957753_Subscription_Monthly_M.jpg
 optimized_image: >-
-  https://videohive.img.customer.envatousercontent.com/files/222873625/sightsignal-fastdatanetworkloop1_IMG.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=01b0da26a22408c5903d6f67e648c8a3
+  https://flextrade.com/wp-content/uploads/2019/09/Fotolia_257957753_Subscription_Monthly_M.jpg
 category: blog
 tags:
   - welcome
