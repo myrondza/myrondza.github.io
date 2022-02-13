@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://videohive.img.customer.envatousercontent.com/files/222873625/sightsignal-fastdatanetworkloop1_IMG.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=01b0da26a22408c5903d6f67e648c8a3
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://videohive.img.customer.envatousercontent.com/files/222873625/sightsignal-fastdatanetworkloop1_IMG.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=01b0da26a22408c5903d6f67e648c8a3
 category: blog
 tags:
   - welcome
