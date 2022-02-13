@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://content.presspage.com/uploads/1369/1920_epsrc-290721-brainartificialintelligence-gettyimages-1186776186.jpg?10000
+  https://priceintelligence.net/wp-content/uploads/2020/07/KI-und-Machine-Learning-price-monitoring-1.jpg
 optimized_image: >-
-  https://content.presspage.com/uploads/1369/1920_epsrc-290721-brainartificialintelligence-gettyimages-1186776186.jpg?10000
+  https://priceintelligence.net/wp-content/uploads/2020/07/KI-und-Machine-Learning-price-monitoring-1.jpg
 category: blog
 tags:
   - welcome
