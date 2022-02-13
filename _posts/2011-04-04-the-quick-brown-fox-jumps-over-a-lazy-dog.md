@@ -4,8 +4,8 @@ layout: post
 title: Causal Inference
 subtitle: Causal Inference
 description: Here we understand the fundamental concepts of Causal Inference. As well as we look at the newly emerged Causal Inference framework libraries - DoWhy (Assumptions) & EconML (Estimations).
-image: https://media.istockphoto.com/photos/artificial-intelligence-technology-picture-id1149178089?k=20&m=1149178089&s=612x612&w=0&h=UExwdCO5Jx4ZG0-HJPTyPy7whTItCm2K2UG3ifIi8eg=
-optimized_image: https://media.istockphoto.com/photos/artificial-intelligence-technology-picture-id1149178089?k=20&m=1149178089&s=612x612&w=0&h=UExwdCO5Jx4ZG0-HJPTyPy7whTItCm2K2UG3ifIi8eg=
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-UbkdSVY-IwrVKmEgI4j7VDxfiJiQMdm2Q&usqp=CAU
+optimized_image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-UbkdSVY-IwrVKmEgI4j7VDxfiJiQMdm2Q&usqp=CAU
 category: css
 tags:
   - css
