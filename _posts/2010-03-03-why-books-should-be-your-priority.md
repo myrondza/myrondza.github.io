@@ -4,8 +4,8 @@ layout: post
 title: Optimization Theory
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://pbs.twimg.com/media/CMOZf_vUYAA-Jra.png
-optimized_image: https://pbs.twimg.com/media/CMOZf_vUYAA-Jra.png
+image: https://github.com/myrondza/myrondza.github.io/blob/master/assets/img/Objective.png
+optimized_image: https://github.com/myrondza/myrondza.github.io/blob/master/assets/img/Objective.png
 category: life
 tags:
   - books
