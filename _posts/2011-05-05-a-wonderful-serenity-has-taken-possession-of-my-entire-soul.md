@@ -1,7 +1,7 @@
 ---
 date: 2018-07-20 12:26:40
 layout: post
-title: Computer Vision (Fundamentals)
+title: Computer Vision (Introduction)
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://miro.medium.com/max/1400/1*XGpOlTBTS3SBKdvsoQoZ8g.png

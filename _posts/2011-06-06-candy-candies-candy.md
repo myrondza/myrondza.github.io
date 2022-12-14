@@ -1,7 +1,7 @@
 ---
 date: 2018-09-01 12:26:40
 layout: post
-title: Recommendation System (Algorithms)
+title: Recommendation System (Introduction)
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://www.pymnts.com/wp-content/uploads/2021/03/amazon-go.jpg
