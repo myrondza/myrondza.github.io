@@ -1,8 +1,7 @@
 # Site Settings
 name: Gradient
-title: Gradient | AI blog
-description: Gradient is an AI Blog by
-  Myron D'Souza.
+title: Gradient | AI blog 
+description: Gradient is an AI Blog by Myron D'Souza.
 tags:
   - blog
   - template

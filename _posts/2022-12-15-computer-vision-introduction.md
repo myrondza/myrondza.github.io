@@ -4,7 +4,7 @@ layout: post
 title: "Computer Vision Introduction"
 subtitle:
 description:
-image: https://static.wixstatic.com/media/9f47f0_9bc5804ac3ff4f3cb597fc938468452a~mv2.png/v1/fit/w_653%2Ch_352%2Cal_c/file.png
+image: https://miro.medium.com/max/1400/1*XGpOlTBTS3SBKdvsoQoZ8g.png
 optimized_image:
 category:
 tags: cv

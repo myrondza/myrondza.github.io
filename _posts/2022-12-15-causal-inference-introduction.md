@@ -4,7 +4,7 @@ layout: post
 title: "Causal Inference Introduction"
 subtitle:
 description:
-image: https://biotium.com/wp-content/uploads/2017/06/SynaptoGreen-C4-detail.jpg
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-UbkdSVY-IwrVKmEgI4j7VDxfiJiQMdm2Q&usqp=CAU
 optimized_image:
 category:
 tags: ci
