@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: Gradient
+title: Gradient | A blog theme for Jekyll
+description: Gradient is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
@@ -105,4 +105,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.0.0
