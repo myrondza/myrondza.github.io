@@ -7,7 +7,7 @@ description:
 image: https://image.cnbcfm.com/api/v1/image/106195906-1571755584600rts2s7s5.jpg?v=1589545344
 optimized_image:
 category:
-tags:
+tags: rl
 author:
 paginate: false
 ---
