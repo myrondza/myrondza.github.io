@@ -1,7 +1,8 @@
 # Site Settings
-name: Gradient
-title: Gradient | AI blog 
-description: Gradient is an AI Blog by Myron D'Souza.
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
 tags:
   - blog
   - template
@@ -104,4 +105,4 @@ exclude: [
 ]
 
 # Theme
-version: v1.0.0
+version: v3.1.1
