@@ -1,23 +1,20 @@
 ---
-date: 2022-12-15 12:00:00
+date: 2022-12-15 08:46:25
 layout: post
-title: Reinforcement Learning (Introduction)
-subtitle: Introduction Deep Reinforcement  Learning 
-description: 
+title: "Reinforcement Learning Introduction"
+subtitle:
+description:
 image: https://image.cnbcfm.com/api/v1/image/106195906-1571755584600rts2s7s5.jpg?v=1589545344
-optimized_image: https://image.cnbcfm.com/api/v1/image/106195906-1571755584600rts2s7s5.jpg?v=1589545344
-category: 'Reinforcement Learning'
+optimized_image:
+category:
 tags:
-  - languages
-  - tips
-author: myrondza
+author:
+paginate: false
 ---
 
-The idea behind Reinforcement Learning is that an <a href="#"> agent </a> (an AI) will learn from the <a href="#"> environment </a> by interacting with it (through trial and error) and receiving <a href="#">rewards </a> (negative or positive) as feedback for performing actions.
+The idea behind Reinforcement Learning is that an `agent` (an AI) will learn from the `environment` by **interacting with it** (through trial and error) and **receiving** `rewards` (negative or positive) as feedback for performing actions.
 
-> Reinforcement Learning is just a computational approach of learning from action.
-
-## Reinforcement Learning
+Reinforcement Learning is just a **computational approach of learning from action.**
 
 Reinforcement learning is a `framework` for solving `control tasks` (also called decision problems) by building agents that learn from the environment by interacting with it through trial and error and receiving rewards (positive or negative) as unique feedback
 
@@ -63,16 +60,9 @@ We need to balance how much we **explore the environment**
 
 The Policy **π** is the **brain of our Agent**, it’s the function that tell us what **`action to take given the state` we are.** So it **defines the agent’s behaviour** at a given time.
 
-This Policy **is the function we want to learn**, our goal is to find the `optimal policy` *π, the policy that* * maximises **`expected return`** when the agent acts according to it. We find this *π through training.*
+This Policy **is the function we want to learn**, our goal is to find the `**optimal policy**` *π, the policy that* * maximises **`expected return`** when the agent acts according to it. We find this *π through training.*
 
 There are two approaches to train our agent to find this optimal policy π*:
 
-- **Directly,** by teaching the agent to learn which **action to take,** given the state is in: `Policy-Based Methods.` 
-- Indirectly, **teach the agent to learn which state is more valuable** and then take the action that **leads to the more valuable states**: `Value-Based Methods.`
-
-
-## Code
-
-```js
-
-```
+- **Directly,** by teaching the agent to learn which **action to take,** given the state is in: **`Policy-Based Methods.`**
+- Indirectly, **teach the agent to learn which state is more valuable** and then take the action that **leads to the more valuable states**: `**Value-Based Methods**.`
