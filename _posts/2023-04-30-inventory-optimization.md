@@ -4,7 +4,7 @@ layout: post
 title: "Inventory Optimization"
 subtitle:
 description:
-image: https://www.notion.so/image/https%3A%2F%2Fwww.elementum.com%2Fapp%2Fuploads%2F2022%2F08%2FWarehouse-Issues.png?table=block&id=a7c78434-2bc6-40e9-9a1d-1f76dcb87eab&spaceId=c4e2cddb-7136-4cf0-9788-4e1d69954370&width=2000&userId=0156e075-98e8-4a51-b50e-88cf89aecb12&cache=v2
+image: https://images.squarespace-cdn.com/content/v1/602ec1c9965913605a250907/60e8e362-fab2-4298-ae71-058fffb6e8fa/Screenshot+2023-10-17+at+6.13.05%E2%80%AFPM.png
 optimized_image:
 category:
 tags:
