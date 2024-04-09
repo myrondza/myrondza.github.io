@@ -18,7 +18,7 @@ paginate: false
 
 What is Uncertainty?
 
-Making decisions under imperfect or unknown information
+Making judgements with incomplete or unreliable information
 
 ![https://medialibrarycdn.blueyonder.com/-/media/images/blue yonder/master/petal hero images/inventory_hero.jpg?h=1080&iar=0&w=1920&rev=-1](https://medialibrarycdn.blueyonder.com/-/media/images/blue yonder/master/petal hero images/inventory_hero.jpg?h=1080&iar=0&w=1920&rev=-1)
 
@@ -28,26 +28,26 @@ Making decisions under imperfect or unknown information
 2. Supply Uncertainty (Supplier be on Time - For Delivery)
 3. Production Uncertainty (Enough Production Capacity - Production)
 
-Managing a supply chain involves making decisions under imperfect or unknown information. Uncertainty in the supply chain can arise from various sources, including demand uncertainty, supply uncertainty, and production uncertainty. Addressing these challenges requires finding the right balance between service level, stock holding, and safety stock.
+Managing a supply chain requires making judgements with incomplete or unknown information. Uncertainty in the supply chain can stem from a variety of factors, including demand uncertainty, supplier uncertainty, and production uncertainty. Addressing these difficulties necessitates striking the appropriate balance between service level, stock holding, and safety stock.
 
 Demand Uncertainty
-Demand uncertainty refers to the risk of customers not buying products as forecasted. This can be due to factors such as changing consumer preferences, unexpected events, and economic conditions. When demand is uncertain, companies need to hold safety stock to buffer against unexpected fluctuations.
-Demand uncertainty can be further categorized into smooth vs. volatile demand. Smooth demand occurs when the forecasted volume is close to the actual demand, requiring a smaller safety stock to maintain the same service level. In contrast, volatile demand occurs when the forecasted volume is often far from the actual demand, requiring a larger safety stock to maintain the same service level.
+Demand uncertainty refers to the possibility of buyers not purchasing things as expected. This can be attributed to causes such as shifting consumer tastes, unanticipated events, and economic situations. When demand is uncertain, businesses must keep safety stock on hand to offset unforeseen variations.
+Demand uncertainty can be further divided into smooth and volatile demand. Smooth demand happens when the expected volume is similar to the actual demand, necessitating a lower safety stock to maintain the same service level. In contrast, fluctuating demand arises when the predicted volume differs significantly from the actual demand, necessitating a greater safety stock to maintain the same service level.
 
 Supply Uncertainty
-Supply uncertainty refers to the risk of suppliers not delivering goods on time. This can be due to factors such as geopolitical events, last-minute orders, transportation delays, weather conditions, vehicle breakdowns, driver shortages, and trade barriers. When suppliers are unreliable, companies need to hold more safety stock to ensure that they can meet customer demand in case of unexpected delays.
-Supplier reliability is another factor that affects safety stock. When suppliers are reliable and deliver goods on time, companies can hold smaller safety stock. In contrast, when suppliers are unreliable and frequently deliver goods late, companies need to hold larger safety stock to ensure that they can meet customer demand in case of unexpected delays.
+Supply uncertainty is the risk of suppliers failing to deliver items on time. This can be attributed to geopolitical events, last-minute orders, transportation delays, weather conditions, vehicle breakdowns, driver shortages, and trade obstacles. When suppliers are untrustworthy, businesses must keep greater safety stock to ensure that they can meet client demand in the event of unforeseen delays.
+Supplier reliability is another aspect that influences safety stock. When suppliers are dependable and deliver items on schedule, businesses can keep less safety stock. In contrast, when suppliers are unreliable and frequently deliver goods late, businesses must have a bigger reserve stock to ensure that they can meet client demand in the event of unexpected delays.
 
 Production Uncertainty
-Production uncertainty refers to the risk of not having enough production capacity to meet demand. This can be due to factors such as raw material shortages, production defects, maintenance, strikes, energy costs, labor shortages, and machine breakdowns. When production is unreliable, companies need to hold more safety stock to ensure that they can meet customer demand in case of unexpected shortages.
-Lead times also affect safety stock. When lead times are shorter, companies can hold smaller safety stock. In contrast, when lead times are longer, companies need to hold larger safety stock to ensure that they can meet customer demand in case of unexpected delays.
-In summary, managing uncertainty in the supply chain requires finding the right balance between service level, stock holding, and safety stock. This involves analyzing historic forecast errors and the volatility of demand, assessing supplier and production reliability, and considering lead times. By doing so, companies can optimize their inventory management and ensure that they have enough inventory on hand to meet customer demand while minimizing the risk of stockouts.
+Production uncertainty refers to the possibility of not having adequate capacity to meet demand. This could be due to raw material shortages, production flaws, maintenance, strikes, energy prices, labour shortages, and equipment malfunctions. When manufacturing is uncertain, businesses must keep additional safety stock to ensure that they can meet client demand in the event of an unforeseen shortfall.
+
+Safety stock is also impacted by lead times. Shorter lead times allow businesses to keep less safety stock on hand. On the other hand, longer lead times require businesses to maintain higher levels of safety stock so they can guarantee meeting client demand in the event of unforeseen delays. In summary, striking the correct balance between service level, stock holding, and safety stock is essential for controlling uncertainty in the supply chain. This entails evaluating lead times, supplier and production reliability, demand volatility, and historical prediction inaccuracies. By doing this, businesses may reduce the risk of stockouts and maximise their inventory management while making sure they have adequate inventory on hand to fulfil client demand.
 
 ![https://www.extensiv.com/hs-fs/hubfs/Skubana/Blog Pages/Imported_Blog_Media/Female warehouse worker-4.jpg?width=1618&name=Female warehouse worker-4.jpg](https://www.extensiv.com/hs-fs/hubfs/Skubana/Blog Pages/Imported_Blog_Media/Female warehouse worker-4.jpg?width=1618&name=Female warehouse worker-4.jpg)
 
 ## Stockouts
 
-Stockouts refer to a situation where a company has run out of a particular item that is in demand from customers. In inventory management, stockouts are considered undesirable as they result in lost sales and dissatisfied customers. Effective inventory management involves forecasting demand, managing inventory levels, and ensuring timely replenishment of stock to avoid stockouts.
+When a business runs out of a specific item that consumers are requesting, it is referred to as a stockout. Stockouts are viewed negatively in inventory management because they cause missed sales and disgruntled customers. Forecasting demand, controlling inventory levels, and making sure that stock is replenished on time to prevent stockouts are all essential components of effective inventory management.
 
 ![https://practicaldatascience.co.uk/assets/images/posts/pallets.jpg](https://practicaldatascience.co.uk/assets/images/posts/pallets.jpg)
 
@@ -59,9 +59,9 @@ How much is needed?
 
 Optimal Stock Level:
 
-Too Little: Stock outs (Understocked)
-Just Right: Balance service level and stock holding to maximize monetary KPI (Well Stocked)
-Too Much: Unnecessary capital tied up + storage costs (perishability is a bigger problem) (Over Stocked)
+Too Little: Understocked (stock outs)
+Perfect: To optimise financial KPI (well-stocked), service level and stock keeping should be balanced.
+Too Much: Excessive capital committed plus storage expenses (perishability is a greater issue) (Excessively stocked)
 
 ![https://lingarogroup.com/hubfs/Blog featured images/Inventory Optimization 3-1.png](https://lingarogroup.com/hubfs/Blog featured images/Inventory Optimization 3-1.png)
 
